@@ -1,0 +1,1427 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/_Help.png</file>
+        <file>icons/_Help@2x.png</file>
+        <file>icons/_Menu.png</file>
+        <file>icons/_Menu@2x.png</file>
+        <file>icons/_Popup.png</file>
+        <file>icons/_Popup@2x.png</file>
+        <file>icons/aboutwindow.mainheader.png</file>
+        <file>icons/ageialogo.png</file>
+        <file>icons/AlphabeticalSorting.png</file>
+        <file>icons/AlphabeticalSorting@2x.png</file>
+        <file>icons/Animation.AddEvent.png</file>
+        <file>icons/Animation.AddKeyframe.png</file>
+        <file>icons/Animation.EventMarker.png</file>
+        <file>icons/Animation.FilterBySelection.png</file>
+        <file>icons/Animation.FirstKey.png</file>
+        <file>icons/Animation.LastKey.png</file>
+        <file>icons/Animation.NextKey.png</file>
+        <file>icons/Animation.Play.png</file>
+        <file>icons/Animation.PrevKey.png</file>
+        <file>icons/Animation.Record.png</file>
+        <file>icons/Animation.Record@2x.png</file>
+        <file>icons/Animation.SequencerLink.png</file>
+        <file>icons/animationanimated.png</file>
+        <file>icons/animationdopesheetkeyframe.png</file>
+        <file>icons/animationkeyframe.png</file>
+        <file>icons/animationnocurve.png</file>
+        <file>icons/animationvisibilitytoggleoff.png</file>
+        <file>icons/animationvisibilitytoggleoff@2x.png</file>
+        <file>icons/animationvisibilitytoggleon.png</file>
+        <file>icons/animationvisibilitytoggleon@2x.png</file>
+        <file>icons/AnimationWrapModeMenu.png</file>
+        <file>icons/AssemblyLock.png</file>
+        <file>icons/Asset Store.png</file>
+        <file>icons/Asset Store@2x.png</file>
+        <file>icons/Audio Mixer.png</file>
+        <file>icons/Audio Mixer@2x.png</file>
+        <file>icons/AutoLightbakingOff.png</file>
+        <file>icons/AutoLightbakingOff@2x.png</file>
+        <file>icons/AutoLightbakingOn.png</file>
+        <file>icons/AutoLightbakingOn@2x.png</file>
+        <file>icons/AvatarCompass.png</file>
+        <file>icons/AvatarController.Layer.png</file>
+        <file>icons/AvatarController.LayerHover.png</file>
+        <file>icons/AvatarController.LayerSelected.png</file>
+        <file>icons/AvatarPivot.png</file>
+        <file>icons/AvatarPivot@2x.png</file>
+        <file>icons/AvatarSelector.png</file>
+        <file>icons/AvatarSelector@2x.png</file>
+        <file>icons/back.png</file>
+        <file>icons/back@2x.png</file>
+        <file>icons/beginButton.png</file>
+        <file>icons/beginButton-On.png</file>
+        <file>icons/blendKey.png</file>
+        <file>icons/blendKeyOverlay.png</file>
+        <file>icons/blendKeySelected.png</file>
+        <file>icons/blendSampler.png</file>
+        <file>icons/blueGroove.png</file>
+        <file>icons/BuildSettings.Android On.png</file>
+        <file>icons/BuildSettings.Android On@2x.png</file>
+        <file>icons/BuildSettings.Android.png</file>
+        <file>icons/BuildSettings.Android.Small.png</file>
+        <file>icons/BuildSettings.Android.Small@2x.png</file>
+        <file>icons/BuildSettings.Android@2x.png</file>
+        <file>icons/BuildSettings.Broadcom.png</file>
+        <file>icons/BuildSettings.Editor.png</file>
+        <file>icons/BuildSettings.Editor.Small.png</file>
+        <file>icons/BuildSettings.Facebook On.png</file>
+        <file>icons/BuildSettings.Facebook On@2x.png</file>
+        <file>icons/BuildSettings.Facebook.png</file>
+        <file>icons/BuildSettings.Facebook.Small.png</file>
+        <file>icons/BuildSettings.Facebook.Small@2x.png</file>
+        <file>icons/BuildSettings.Facebook@2x.png</file>
+        <file>icons/BuildSettings.FlashPlayer.png</file>
+        <file>icons/BuildSettings.FlashPlayer.Small.png</file>
+        <file>icons/BuildSettings.iPhone On.png</file>
+        <file>icons/BuildSettings.iPhone On@2x.png</file>
+        <file>icons/BuildSettings.iPhone.png</file>
+        <file>icons/BuildSettings.iPhone.Small.png</file>
+        <file>icons/BuildSettings.iPhone.Small@2x.png</file>
+        <file>icons/BuildSettings.iPhone@2x.png</file>
+        <file>icons/BuildSettings.Lumin On.png</file>
+        <file>icons/BuildSettings.Lumin On@2x.png</file>
+        <file>icons/BuildSettings.Lumin.png</file>
+        <file>icons/BuildSettings.Lumin.small.png</file>
+        <file>icons/BuildSettings.Lumin.small@2x.png</file>
+        <file>icons/BuildSettings.Lumin@2x.png</file>
+        <file>icons/BuildSettings.Metro On.png</file>
+        <file>icons/BuildSettings.Metro On@2x.png</file>
+        <file>icons/BuildSettings.Metro.png</file>
+        <file>icons/BuildSettings.Metro.Small.png</file>
+        <file>icons/BuildSettings.Metro.Small@2x.png</file>
+        <file>icons/BuildSettings.Metro@2x.png</file>
+        <file>icons/BuildSettings.N3DS On.png</file>
+        <file>icons/BuildSettings.N3DS On@2x.png</file>
+        <file>icons/BuildSettings.N3DS.png</file>
+        <file>icons/BuildSettings.N3DS.Small.png</file>
+        <file>icons/BuildSettings.N3DS.Small@2x.png</file>
+        <file>icons/BuildSettings.N3DS@2x.png</file>
+        <file>icons/BuildSettings.PS4 On.png</file>
+        <file>icons/BuildSettings.PS4 On@2x.png</file>
+        <file>icons/BuildSettings.PS4.png</file>
+        <file>icons/BuildSettings.PS4.Small.png</file>
+        <file>icons/BuildSettings.PS4.Small@2x.png</file>
+        <file>icons/BuildSettings.PS4@2x.png</file>
+        <file>icons/BuildSettings.PSM.png</file>
+        <file>icons/BuildSettings.PSM.Small.png</file>
+        <file>icons/BuildSettings.PSP2.png</file>
+        <file>icons/BuildSettings.PSP2.Small.png</file>
+        <file>icons/BuildSettings.SelectedIcon.png</file>
+        <file>icons/BuildSettings.Stadia On.png</file>
+        <file>icons/BuildSettings.Stadia On@2x.png</file>
+        <file>icons/BuildSettings.Stadia.png</file>
+        <file>icons/BuildSettings.Stadia.small.png</file>
+        <file>icons/BuildSettings.Stadia.Small@2x.png</file>
+        <file>icons/BuildSettings.Stadia@2x.png</file>
+        <file>icons/BuildSettings.Standalone On.png</file>
+        <file>icons/BuildSettings.Standalone On@2x.png</file>
+        <file>icons/BuildSettings.Standalone.png</file>
+        <file>icons/BuildSettings.Standalone.Small.png</file>
+        <file>icons/BuildSettings.Standalone.Small@2x.png</file>
+        <file>icons/BuildSettings.Standalone@2x.png</file>
+        <file>icons/BuildSettings.StandaloneBroadcom.Small.png</file>
+        <file>icons/BuildSettings.StandaloneGLES20Emu.Small.png</file>
+        <file>icons/BuildSettings.StandaloneGLESEmu.png</file>
+        <file>icons/BuildSettings.StandaloneGLESEmu.Small.png</file>
+        <file>icons/BuildSettings.Switch On.png</file>
+        <file>icons/BuildSettings.Switch On@2x.png</file>
+        <file>icons/BuildSettings.Switch.png</file>
+        <file>icons/BuildSettings.Switch.Small.png</file>
+        <file>icons/BuildSettings.Switch.Small@2x.png</file>
+        <file>icons/BuildSettings.Switch@2x.png</file>
+        <file>icons/BuildSettings.tvOS On.png</file>
+        <file>icons/BuildSettings.tvOS On@2x.png</file>
+        <file>icons/BuildSettings.tvOS.png</file>
+        <file>icons/BuildSettings.tvOS.Small.png</file>
+        <file>icons/BuildSettings.tvOS.Small@2x.png</file>
+        <file>icons/BuildSettings.tvOS@2x.png</file>
+        <file>icons/BuildSettings.Web.png</file>
+        <file>icons/BuildSettings.Web.Small.png</file>
+        <file>icons/BuildSettings.WebGL On.png</file>
+        <file>icons/BuildSettings.WebGL On@2x.png</file>
+        <file>icons/BuildSettings.WebGL.png</file>
+        <file>icons/BuildSettings.WebGL.Small.png</file>
+        <file>icons/BuildSettings.WebGL.Small@2x.png</file>
+        <file>icons/BuildSettings.WebGL@2x.png</file>
+        <file>icons/BuildSettings.WP8.png</file>
+        <file>icons/BuildSettings.WP8.Small.png</file>
+        <file>icons/BuildSettings.Xbox360.png</file>
+        <file>icons/BuildSettings.Xbox360.Small.png</file>
+        <file>icons/BuildSettings.XboxOne On.png</file>
+        <file>icons/BuildSettings.XboxOne On@2x.png</file>
+        <file>icons/BuildSettings.XboxOne.png</file>
+        <file>icons/BuildSettings.XboxOne.Small.png</file>
+        <file>icons/BuildSettings.XboxOne.Small@2x.png</file>
+        <file>icons/BuildSettings.XboxOne@2x.png</file>
+        <file>icons/CacheServerConnected.png</file>
+        <file>icons/CacheServerConnected@2x.png</file>
+        <file>icons/CacheServerDisabled.png</file>
+        <file>icons/CacheServerDisabled@2x.png</file>
+        <file>icons/CacheServerDisconnected.png</file>
+        <file>icons/CacheServerDisconnected@2x.png</file>
+        <file>icons/CheckerFloor.png</file>
+        <file>icons/Clipboard.png</file>
+        <file>icons/ClothInspector.PaintTool.png</file>
+        <file>icons/ClothInspector.PaintValue.png</file>
+        <file>icons/ClothInspector.SelectTool.png</file>
+        <file>icons/ClothInspector.SettingsTool.png</file>
+        <file>icons/ClothInspector.ViewValue.png</file>
+        <file>icons/CloudConnect.png</file>
+        <file>icons/CloudConnect@2x.png</file>
+        <file>icons/Collab.Build.png</file>
+        <file>icons/Collab.BuildFailed.png</file>
+        <file>icons/Collab.BuildSucceeded.png</file>
+        <file>icons/Collab.FileAdded.png</file>
+        <file>icons/Collab.FileConflict.png</file>
+        <file>icons/Collab.FileDeleted.png</file>
+        <file>icons/Collab.FileIgnored.png</file>
+        <file>icons/Collab.FileMoved.png</file>
+        <file>icons/Collab.FileUpdated.png</file>
+        <file>icons/Collab.FolderAdded.png</file>
+        <file>icons/Collab.FolderConflict.png</file>
+        <file>icons/Collab.FolderDeleted.png</file>
+        <file>icons/Collab.FolderIgnored.png</file>
+        <file>icons/Collab.FolderMoved.png</file>
+        <file>icons/Collab.FolderUpdated.png</file>
+        <file>icons/Collab.NoInternet.png</file>
+        <file>icons/Collab.png</file>
+        <file>icons/Collab.Warning.png</file>
+        <file>icons/Collab@2x.png</file>
+        <file>icons/CollabConflict.png</file>
+        <file>icons/CollabError.png</file>
+        <file>icons/CollabNew.png</file>
+        <file>icons/CollabOffline.png</file>
+        <file>icons/CollabProgress.png</file>
+        <file>icons/CollabPull.png</file>
+        <file>icons/CollabPush.png</file>
+        <file>icons/ColorPicker.ColorCycle.png</file>
+        <file>icons/ColorPicker.CycleColor.png</file>
+        <file>icons/ColorPicker.CycleSlider.png</file>
+        <file>icons/ColorPicker.SliderCycle.png</file>
+        <file>icons/console.erroricon.inactive.sml.png</file>
+        <file>icons/console.erroricon.inactive.sml@2x.png</file>
+        <file>icons/console.erroricon.png</file>
+        <file>icons/console.erroricon.sml.png</file>
+        <file>icons/console.erroricon.sml@2x.png</file>
+        <file>icons/console.erroricon@2x.png</file>
+        <file>icons/console.infoicon.inactive.sml.png</file>
+        <file>icons/console.infoicon.inactive.sml@2x.png</file>
+        <file>icons/console.infoicon.png</file>
+        <file>icons/console.infoicon.sml.png</file>
+        <file>icons/console.infoicon.sml@2x.png</file>
+        <file>icons/console.infoicon@2x.png</file>
+        <file>icons/console.warnicon.inactive.sml.png</file>
+        <file>icons/console.warnicon.inactive.sml@2x.png</file>
+        <file>icons/console.warnicon.png</file>
+        <file>icons/console.warnicon.sml.png</file>
+        <file>icons/console.warnicon.sml@2x.png</file>
+        <file>icons/console.warnicon@2x.png</file>
+        <file>icons/CreateAddNew.png</file>
+        <file>icons/CreateAddNew@2x.png</file>
+        <file>icons/CrossIcon.png</file>
+        <file>icons/curvekeyframe.png</file>
+        <file>icons/curvekeyframeselected.png</file>
+        <file>icons/curvekeyframeselectedoverlay.png</file>
+        <file>icons/curvekeyframesemiselectedoverlay.png</file>
+        <file>icons/curvekeyframeweighted.png</file>
+        <file>icons/CustomSorting.png</file>
+        <file>icons/CustomTool.png</file>
+        <file>icons/CustomTool@2x.png</file>
+        <file>icons/d__Help.png</file>
+        <file>icons/d__Help@2x.png</file>
+        <file>icons/d__Menu.png</file>
+        <file>icons/d__Menu@2x.png</file>
+        <file>icons/d__Popup.png</file>
+        <file>icons/d__Popup@2x.png</file>
+        <file>icons/d_aboutwindow.mainheader.png</file>
+        <file>icons/d_ageialogo.png</file>
+        <file>icons/d_AlphabeticalSorting.png</file>
+        <file>icons/d_AlphabeticalSorting@2x.png</file>
+        <file>icons/d_Animation.AddEvent.png</file>
+        <file>icons/d_Animation.AddKeyframe.png</file>
+        <file>icons/d_Animation.EventMarker.png</file>
+        <file>icons/d_Animation.FilterBySelection.png</file>
+        <file>icons/d_Animation.FirstKey.png</file>
+        <file>icons/d_Animation.LastKey.png</file>
+        <file>icons/d_Animation.NextKey.png</file>
+        <file>icons/d_Animation.Play.png</file>
+        <file>icons/d_Animation.PrevKey.png</file>
+        <file>icons/d_Animation.Record.png</file>
+        <file>icons/d_Animation.Record@2x.png</file>
+        <file>icons/d_Animation.SequencerLink.png</file>
+        <file>icons/d_animationanimated.png</file>
+        <file>icons/d_animationkeyframe.png</file>
+        <file>icons/d_animationnocurve.png</file>
+        <file>icons/d_animationvisibilitytoggleoff.png</file>
+        <file>icons/d_animationvisibilitytoggleoff@2x.png</file>
+        <file>icons/d_animationvisibilitytoggleon.png</file>
+        <file>icons/d_animationvisibilitytoggleon@2x.png</file>
+        <file>icons/d_AnimationWrapModeMenu.png</file>
+        <file>icons/d_AS Badge Delete.png</file>
+        <file>icons/d_AS Badge New.png</file>
+        <file>icons/d_AssemblyLock.png</file>
+        <file>icons/d_Asset Store.png</file>
+        <file>icons/d_Asset Store@2x.png</file>
+        <file>icons/d_Audio Mixer.png</file>
+        <file>icons/d_Audio Mixer@2x.png</file>
+        <file>icons/d_AutoLightbakingOff.png</file>
+        <file>icons/d_AutoLightbakingOff@2x.png</file>
+        <file>icons/d_AutoLightbakingOn.png</file>
+        <file>icons/d_AutoLightbakingOn@2x.png</file>
+        <file>icons/d_AvatarBlendBackground.png</file>
+        <file>icons/d_AvatarBlendLeft.png</file>
+        <file>icons/d_AvatarBlendLeftA.png</file>
+        <file>icons/d_AvatarBlendRight.png</file>
+        <file>icons/d_AvatarBlendRightA.png</file>
+        <file>icons/d_AvatarCompass.png</file>
+        <file>icons/d_AvatarPivot.png</file>
+        <file>icons/d_AvatarPivot@2x.png</file>
+        <file>icons/d_AvatarSelector.png</file>
+        <file>icons/d_AvatarSelector@2x.png</file>
+        <file>icons/d_back.png</file>
+        <file>icons/d_back@2x.png</file>
+        <file>icons/d_beginButton.png</file>
+        <file>icons/d_beginButton-On.png</file>
+        <file>icons/d_blueGroove.png</file>
+        <file>icons/d_BuildSettings.Android.png</file>
+        <file>icons/d_BuildSettings.Android.Small.png</file>
+        <file>icons/d_BuildSettings.Android.Small@2x.png</file>
+        <file>icons/d_BuildSettings.Android@2x.png</file>
+        <file>icons/d_BuildSettings.Broadcom.png</file>
+        <file>icons/d_BuildSettings.Facebook.png</file>
+        <file>icons/d_BuildSettings.Facebook.Small.png</file>
+        <file>icons/d_BuildSettings.Facebook.Small@2x.png</file>
+        <file>icons/d_BuildSettings.Facebook@2x.png</file>
+        <file>icons/d_BuildSettings.FlashPlayer.png</file>
+        <file>icons/d_BuildSettings.FlashPlayer.Small.png</file>
+        <file>icons/d_BuildSettings.iPhone.png</file>
+        <file>icons/d_BuildSettings.iPhone.Small.png</file>
+        <file>icons/d_BuildSettings.iPhone.Small@2x.png</file>
+        <file>icons/d_BuildSettings.iPhone@2x.png</file>
+        <file>icons/d_BuildSettings.Lumin.png</file>
+        <file>icons/d_BuildSettings.Lumin.small.png</file>
+        <file>icons/d_BuildSettings.Lumin.small@2x.png</file>
+        <file>icons/d_BuildSettings.Lumin@2x.png</file>
+        <file>icons/d_BuildSettings.Metro.png</file>
+        <file>icons/d_BuildSettings.Metro.Small.png</file>
+        <file>icons/d_BuildSettings.Metro.Small@2x.png</file>
+        <file>icons/d_BuildSettings.Metro@2x.png</file>
+        <file>icons/d_BuildSettings.N3DS.png</file>
+        <file>icons/d_BuildSettings.N3DS.Small.png</file>
+        <file>icons/d_BuildSettings.N3DS.Small@2x.png</file>
+        <file>icons/d_BuildSettings.N3DS@2x.png</file>
+        <file>icons/d_BuildSettings.PS4.png</file>
+        <file>icons/d_BuildSettings.PS4.Small.png</file>
+        <file>icons/d_BuildSettings.PS4.Small@2x.png</file>
+        <file>icons/d_BuildSettings.PS4@2x.png</file>
+        <file>icons/d_BuildSettings.PSP2.png</file>
+        <file>icons/d_BuildSettings.PSP2.Small.png</file>
+        <file>icons/d_BuildSettings.SelectedIcon.png</file>
+        <file>icons/d_BuildSettings.Stadia.png</file>
+        <file>icons/d_BuildSettings.Stadia.Small.png</file>
+        <file>icons/d_BuildSettings.Stadia.Small@2x.png</file>
+        <file>icons/d_BuildSettings.Stadia@2x.png</file>
+        <file>icons/d_BuildSettings.Standalone.png</file>
+        <file>icons/d_BuildSettings.Standalone.Small.png</file>
+        <file>icons/d_BuildSettings.Standalone.Small@2x.png</file>
+        <file>icons/d_BuildSettings.Standalone@2x.png</file>
+        <file>icons/d_BuildSettings.Switch.png</file>
+        <file>icons/d_BuildSettings.Switch.Small.png</file>
+        <file>icons/d_BuildSettings.Switch.Small@2x.png</file>
+        <file>icons/d_BuildSettings.Switch@2x.png</file>
+        <file>icons/d_BuildSettings.tvOS.png</file>
+        <file>icons/d_BuildSettings.tvOS.Small.png</file>
+        <file>icons/d_BuildSettings.tvOS.Small@2x.png</file>
+        <file>icons/d_BuildSettings.tvOS@2x.png</file>
+        <file>icons/d_BuildSettings.Web.png</file>
+        <file>icons/d_BuildSettings.Web.Small.png</file>
+        <file>icons/d_BuildSettings.WebGL.png</file>
+        <file>icons/d_BuildSettings.WebGL.Small.png</file>
+        <file>icons/d_BuildSettings.WebGL.Small@2x.png</file>
+        <file>icons/d_BuildSettings.WebGL@2x.png</file>
+        <file>icons/d_BuildSettings.Xbox360.png</file>
+        <file>icons/d_BuildSettings.Xbox360.Small.png</file>
+        <file>icons/d_BuildSettings.XboxOne.png</file>
+        <file>icons/d_BuildSettings.XboxOne.Small.png</file>
+        <file>icons/d_BuildSettings.XboxOne.Small@2x.png</file>
+        <file>icons/d_BuildSettings.XboxOne@2x.png</file>
+        <file>icons/d_BuildSettings.Xiaomi.png</file>
+        <file>icons/d_BuildSettings.Xiaomi.Small.png</file>
+        <file>icons/d_BuildSettings.Xiaomi.Small@2x.png</file>
+        <file>icons/d_BuildSettings.Xiaomi@2x.png</file>
+        <file>icons/d_CacheServerConnected.png</file>
+        <file>icons/d_CacheServerConnected@2x.png</file>
+        <file>icons/d_CacheServerDisabled.png</file>
+        <file>icons/d_CacheServerDisabled@2x.png</file>
+        <file>icons/d_CacheServerDisconnected.png</file>
+        <file>icons/d_CacheServerDisconnected@2x.png</file>
+        <file>icons/d_CheckerFloor.png</file>
+        <file>icons/d_CloudConnect.png</file>
+        <file>icons/d_CloudConnect@2x.png</file>
+        <file>icons/d_Collab.FileAdded.png</file>
+        <file>icons/d_Collab.FileConflict.png</file>
+        <file>icons/d_Collab.FileDeleted.png</file>
+        <file>icons/d_Collab.FileIgnored.png</file>
+        <file>icons/d_Collab.FileMoved.png</file>
+        <file>icons/d_Collab.FileUpdated.png</file>
+        <file>icons/d_Collab.FolderAdded.png</file>
+        <file>icons/d_Collab.FolderConflict.png</file>
+        <file>icons/d_Collab.FolderDeleted.png</file>
+        <file>icons/d_Collab.FolderIgnored.png</file>
+        <file>icons/d_Collab.FolderMoved.png</file>
+        <file>icons/d_Collab.FolderUpdated.png</file>
+        <file>icons/d_Collab.png</file>
+        <file>icons/d_Collab@2x.png</file>
+        <file>icons/d_ColorPicker.CycleColor.png</file>
+        <file>icons/d_ColorPicker.CycleSlider.png</file>
+        <file>icons/d_console.erroricon.inactive.sml.png</file>
+        <file>icons/d_console.erroricon.inactive.sml@2x.png</file>
+        <file>icons/d_console.erroricon.png</file>
+        <file>icons/d_console.erroricon.sml.png</file>
+        <file>icons/d_console.erroricon.sml@2x.png</file>
+        <file>icons/d_console.erroricon@2x.png</file>
+        <file>icons/d_console.infoicon.inactive.sml.png</file>
+        <file>icons/d_console.infoicon.inactive.sml@2x.png</file>
+        <file>icons/d_console.infoicon.png</file>
+        <file>icons/d_console.infoicon.sml.png</file>
+        <file>icons/d_console.infoicon.sml@2x.png</file>
+        <file>icons/d_console.infoicon@2x.png</file>
+        <file>icons/d_console.warnicon.inactive.sml.png</file>
+        <file>icons/d_console.warnicon.inactive.sml@2x.png</file>
+        <file>icons/d_console.warnicon.png</file>
+        <file>icons/d_console.warnicon.sml.png</file>
+        <file>icons/d_console.warnicon.sml@2x.png</file>
+        <file>icons/d_console.warnicon@2x.png</file>
+        <file>icons/d_CreateAddNew.png</file>
+        <file>icons/d_CreateAddNew@2x.png</file>
+        <file>icons/d_curvekeyframe.png</file>
+        <file>icons/d_curvekeyframeselected.png</file>
+        <file>icons/d_curvekeyframeselectedoverlay.png</file>
+        <file>icons/d_curvekeyframesemiselectedoverlay.png</file>
+        <file>icons/d_curvekeyframeweighted.png</file>
+        <file>icons/d_CustomSorting.png</file>
+        <file>icons/d_CustomTool.png</file>
+        <file>icons/d_CustomTool@2x.png</file>
+        <file>icons/d_DebuggerAttached.png</file>
+        <file>icons/d_DebuggerAttached@2x.png</file>
+        <file>icons/d_DebuggerDisabled.png</file>
+        <file>icons/d_DebuggerDisabled@2x.png</file>
+        <file>icons/d_DebuggerEnabled.png</file>
+        <file>icons/d_DebuggerEnabled@2x.png</file>
+        <file>icons/d_DefaultSorting.png</file>
+        <file>icons/d_DefaultSorting@2x.png</file>
+        <file>icons/d_EditCollider.png</file>
+        <file>icons/d_editcollision_16.png</file>
+        <file>icons/d_editcollision_16@2x.png</file>
+        <file>icons/d_editcollision_32.png</file>
+        <file>icons/d_editconstraints_16.png</file>
+        <file>icons/d_editconstraints_16@2x.png</file>
+        <file>icons/d_editconstraints_32.png</file>
+        <file>icons/d_editicon.sml.png</file>
+        <file>icons/d_endButton.png</file>
+        <file>icons/d_endButton-On.png</file>
+        <file>icons/d_Exposure.png</file>
+        <file>icons/d_Exposure@2x.png</file>
+        <file>icons/d_eyeDropper.Large.png</file>
+        <file>icons/d_eyeDropper.Large@2x.png</file>
+        <file>icons/d_eyeDropper.sml.png</file>
+        <file>icons/d_Favorite.png</file>
+        <file>icons/d_Favorite@2x.png</file>
+        <file>icons/d_FilterByLabel.png</file>
+        <file>icons/d_FilterByLabel@2x.png</file>
+        <file>icons/d_FilterByType.png</file>
+        <file>icons/d_FilterByType@2x.png</file>
+        <file>icons/d_FilterSelectedOnly.png</file>
+        <file>icons/d_FilterSelectedOnly@2x.png</file>
+        <file>icons/d_forward.png</file>
+        <file>icons/d_forward@2x.png</file>
+        <file>icons/d_FrameCapture.png</file>
+        <file>icons/d_FrameCapture@2x.png</file>
+        <file>icons/d_GEAR.png</file>
+        <file>icons/d_Grid.BoxTool.png</file>
+        <file>icons/d_Grid.BoxTool@2x.png</file>
+        <file>icons/d_Grid.Default.png</file>
+        <file>icons/d_Grid.Default@2x.png</file>
+        <file>icons/d_Grid.EraserTool.png</file>
+        <file>icons/d_Grid.EraserTool@2x.png</file>
+        <file>icons/d_Grid.FillTool.png</file>
+        <file>icons/d_Grid.FillTool@2x.png</file>
+        <file>icons/d_Grid.MoveTool.png</file>
+        <file>icons/d_Grid.MoveTool@2x.png</file>
+        <file>icons/d_Grid.PaintTool.png</file>
+        <file>icons/d_Grid.PaintTool@2x.png</file>
+        <file>icons/d_Grid.PickingTool.png</file>
+        <file>icons/d_Grid.PickingTool@2x.png</file>
+        <file>icons/d_Groove.png</file>
+        <file>icons/d_HorizontalSplit.png</file>
+        <file>icons/d_icon dropdown.png</file>
+        <file>icons/d_icon dropdown@2x.png</file>
+        <file>icons/d_Import.png</file>
+        <file>icons/d_Import@2x.png</file>
+        <file>icons/d_InspectorLock.png</file>
+        <file>icons/d_Invalid.png</file>
+        <file>icons/d_Invalid@2x.png</file>
+        <file>icons/d_JointAngularLimits.png</file>
+        <file>icons/d_leftBracket.png</file>
+        <file>icons/d_Lighting.png</file>
+        <file>icons/d_Lighting@2x.png</file>
+        <file>icons/d_LightmapEditor.WindowTitle.png</file>
+        <file>icons/d_LightmapEditor.WindowTitle@2x.png</file>
+        <file>icons/d_Linked.png</file>
+        <file>icons/d_Linked@2x.png</file>
+        <file>icons/d_MainStageView.png</file>
+        <file>icons/d_MainStageView@2x.png</file>
+        <file>icons/d_Mirror.png</file>
+        <file>icons/d_model large.png</file>
+        <file>icons/d_monologo.png</file>
+        <file>icons/d_MoreOptions.png</file>
+        <file>icons/d_MoreOptions@2x.png</file>
+        <file>icons/d_MoveTool on.png</file>
+        <file>icons/d_MoveTool On@2x.png</file>
+        <file>icons/d_MoveTool.png</file>
+        <file>icons/d_MoveTool@2x.png</file>
+        <file>icons/d_Navigation.png</file>
+        <file>icons/d_Occlusion.png</file>
+        <file>icons/d_Occlusion@2x.png</file>
+        <file>icons/d_Package Manager.png</file>
+        <file>icons/d_Package Manager@2x.png</file>
+        <file>icons/d_Particle Effect.png</file>
+        <file>icons/d_ParticleShapeTool On.png</file>
+        <file>icons/d_ParticleShapeTool On@2x.png</file>
+        <file>icons/d_ParticleShapeTool On@3x.png</file>
+        <file>icons/d_ParticleShapeTool On@4x.png</file>
+        <file>icons/d_ParticleShapeTool.png</file>
+        <file>icons/d_ParticleShapeTool@2x.png</file>
+        <file>icons/d_ParticleShapeTool@3x.png</file>
+        <file>icons/d_ParticleShapeTool@4x.png</file>
+        <file>icons/d_PauseButton On.png</file>
+        <file>icons/d_PauseButton On@2x.png</file>
+        <file>icons/d_PauseButton.png</file>
+        <file>icons/d_PauseButton@2x.png</file>
+        <file>icons/d_PlayButton On.png</file>
+        <file>icons/d_PlayButton On@2x.png</file>
+        <file>icons/d_PlayButton.png</file>
+        <file>icons/d_PlayButton@2x.png</file>
+        <file>icons/d_PlayButtonProfile On.png</file>
+        <file>icons/d_PlayButtonProfile.png</file>
+        <file>icons/d_playLoopOff.png</file>
+        <file>icons/d_playLoopOn.png</file>
+        <file>icons/d_preAudioAutoPlayOff.png</file>
+        <file>icons/d_preAudioAutoPlayOff@2x.png</file>
+        <file>icons/d_preAudioAutoPlayOn.png</file>
+        <file>icons/d_preAudioLoopOff.png</file>
+        <file>icons/d_preAudioLoopOff@2x.png</file>
+        <file>icons/d_preAudioLoopOn.png</file>
+        <file>icons/d_preAudioPlayOff.png</file>
+        <file>icons/d_preAudioPlayOn.png</file>
+        <file>icons/d_PreMatCube.png</file>
+        <file>icons/d_PreMatCube@2x.png</file>
+        <file>icons/d_PreMatCylinder.png</file>
+        <file>icons/d_PreMatCylinder@2x.png</file>
+        <file>icons/d_PreMatLight0.png</file>
+        <file>icons/d_PreMatLight0@2x.png</file>
+        <file>icons/d_PreMatLight1.png</file>
+        <file>icons/d_PreMatLight1@2x.png</file>
+        <file>icons/d_PreMatQuad.png</file>
+        <file>icons/d_PreMatQuad@2x.png</file>
+        <file>icons/d_PreMatSphere.png</file>
+        <file>icons/d_PreMatSphere@2x.png</file>
+        <file>icons/d_PreMatTorus.png</file>
+        <file>icons/d_PreMatTorus@2x.png</file>
+        <file>icons/d_Preset.Context.png</file>
+        <file>icons/d_Preset.Context@2x.png</file>
+        <file>icons/d_PreTexA.png</file>
+        <file>icons/d_PreTexA@2x.png</file>
+        <file>icons/d_PreTexB.png</file>
+        <file>icons/d_PreTexB@2x.png</file>
+        <file>icons/d_PreTexG.png</file>
+        <file>icons/d_PreTexG@2x.png</file>
+        <file>icons/d_PreTexR.png</file>
+        <file>icons/d_PreTexR@2x.png</file>
+        <file>icons/d_PreTexRGB.png</file>
+        <file>icons/d_PreTexRGB@2x.png</file>
+        <file>icons/d_PreTextureAlpha.png</file>
+        <file>icons/d_PreTextureMipMapHigh.png</file>
+        <file>icons/d_PreTextureMipMapLow.png</file>
+        <file>icons/d_PreTextureRGB.png</file>
+        <file>icons/d_Profiler.Audio.png</file>
+        <file>icons/d_Profiler.Audio@2x.png</file>
+        <file>icons/d_Profiler.CPU.png</file>
+        <file>icons/d_Profiler.CPU@2x.png</file>
+        <file>icons/d_Profiler.FirstFrame.png</file>
+        <file>icons/d_Profiler.GlobalIllumination.png</file>
+        <file>icons/d_Profiler.GlobalIllumination@2x.png</file>
+        <file>icons/d_Profiler.GPU.png</file>
+        <file>icons/d_Profiler.GPU@2x.png</file>
+        <file>icons/d_Profiler.LastFrame.png</file>
+        <file>icons/d_Profiler.Memory.png</file>
+        <file>icons/d_Profiler.Memory@2x.png</file>
+        <file>icons/d_Profiler.Network.png</file>
+        <file>icons/d_Profiler.NetworkMessages.png</file>
+        <file>icons/d_Profiler.NetworkMessages@2x.png</file>
+        <file>icons/d_Profiler.NetworkOperations.png</file>
+        <file>icons/d_Profiler.NetworkOperations@2x.png</file>
+        <file>icons/d_Profiler.NextFrame.png</file>
+        <file>icons/d_Profiler.Physics.png</file>
+        <file>icons/d_Profiler.Physics@2x.png</file>
+        <file>icons/d_Profiler.Physics2D.png</file>
+        <file>icons/d_Profiler.Physics2D@2x.png</file>
+        <file>icons/d_Profiler.PrevFrame.png</file>
+        <file>icons/d_Profiler.Record.png</file>
+        <file>icons/d_Profiler.Rendering.png</file>
+        <file>icons/d_Profiler.Rendering@2x.png</file>
+        <file>icons/d_Profiler.UI.png</file>
+        <file>icons/d_Profiler.UI@2x.png</file>
+        <file>icons/d_Profiler.UIDetails.png</file>
+        <file>icons/d_Profiler.UIDetails@2x.png</file>
+        <file>icons/d_Profiler.Video.png</file>
+        <file>icons/d_Profiler.Video@2x.png</file>
+        <file>icons/d_ProfilerColumn.WarningCount.png</file>
+        <file>icons/d_Progress.png</file>
+        <file>icons/d_Progress@2x.png</file>
+        <file>icons/d_Project.png</file>
+        <file>icons/d_Project@2x.png</file>
+        <file>icons/d_Record Off.png</file>
+        <file>icons/d_Record Off@2x.png</file>
+        <file>icons/d_Record On.png</file>
+        <file>icons/d_Record On@2x.png</file>
+        <file>icons/d_RectTool On.png</file>
+        <file>icons/d_RectTool On@2x.png</file>
+        <file>icons/d_RectTool.png</file>
+        <file>icons/d_RectTool@2x.png</file>
+        <file>icons/d_RectTransformBlueprint.png</file>
+        <file>icons/d_RectTransformRaw.png</file>
+        <file>icons/d_redGroove.png</file>
+        <file>icons/d_ReflectionProbeSelector.png</file>
+        <file>icons/d_ReflectionProbeSelector@2x.png</file>
+        <file>icons/d_Refresh.png</file>
+        <file>icons/d_Refresh@2x.png</file>
+        <file>icons/d_rightBracket.png</file>
+        <file>icons/d_RotateTool On.png</file>
+        <file>icons/d_RotateTool On@2x.png</file>
+        <file>icons/d_RotateTool.png</file>
+        <file>icons/d_RotateTool@2x.png</file>
+        <file>icons/d_SaveAs.png</file>
+        <file>icons/d_SaveAs@2x.png</file>
+        <file>icons/d_ScaleTool On.png</file>
+        <file>icons/d_ScaleTool On@2x.png</file>
+        <file>icons/d_ScaleTool.png</file>
+        <file>icons/d_ScaleTool@2x.png</file>
+        <file>icons/d_scenepicking_notpickable.png</file>
+        <file>icons/d_scenepicking_notpickable@2x.png</file>
+        <file>icons/d_scenepicking_notpickable_hover.png</file>
+        <file>icons/d_scenepicking_notpickable_hover@2x.png</file>
+        <file>icons/d_scenepicking_notpickable-mixed.png</file>
+        <file>icons/d_scenepicking_notpickable-mixed@2x.png</file>
+        <file>icons/d_scenepicking_notpickable-mixed_hover.png</file>
+        <file>icons/d_scenepicking_notpickable-mixed_hover@2x.png</file>
+        <file>icons/d_scenepicking_pickable.png</file>
+        <file>icons/d_scenepicking_pickable@2x.png</file>
+        <file>icons/d_scenepicking_pickable_hover.png</file>
+        <file>icons/d_scenepicking_pickable_hover@2x.png</file>
+        <file>icons/d_scenepicking_pickable-mixed.png</file>
+        <file>icons/d_scenepicking_pickable-mixed@2x.png</file>
+        <file>icons/d_scenepicking_pickable-mixed_hover.png</file>
+        <file>icons/d_scenepicking_pickable-mixed_hover@2x.png</file>
+        <file>icons/d_SceneView2D.png</file>
+        <file>icons/d_SceneView2D@2x.png</file>
+        <file>icons/d_SceneViewAlpha.png</file>
+        <file>icons/d_SceneViewAudio Off.png</file>
+        <file>icons/d_SceneViewAudio Off@2x.png</file>
+        <file>icons/d_SceneViewAudio.png</file>
+        <file>icons/d_SceneViewAudio@2x.png</file>
+        <file>icons/d_SceneViewCamera.png</file>
+        <file>icons/d_SceneViewCamera@2x.png</file>
+        <file>icons/d_SceneViewFx.png</file>
+        <file>icons/d_SceneViewFX@2x.png</file>
+        <file>icons/d_SceneViewLighting Off.png</file>
+        <file>icons/d_SceneViewLighting Off@2x.png</file>
+        <file>icons/d_SceneViewLighting.png</file>
+        <file>icons/d_SceneViewLighting@2x.png</file>
+        <file>icons/d_SceneViewOrtho.png</file>
+        <file>icons/d_SceneViewRGB.png</file>
+        <file>icons/d_SceneViewTools.png</file>
+        <file>icons/d_SceneViewTools@2x.png</file>
+        <file>icons/d_SceneViewVisibility.png</file>
+        <file>icons/d_SceneViewVisibility@2x.png</file>
+        <file>icons/d_scenevis_hidden.png</file>
+        <file>icons/d_scenevis_hidden@2x.png</file>
+        <file>icons/d_scenevis_hidden_hover.png</file>
+        <file>icons/d_scenevis_hidden_hover@2x.png</file>
+        <file>icons/d_scenevis_hidden-mixed.png</file>
+        <file>icons/d_scenevis_hidden-mixed@2x.png</file>
+        <file>icons/d_scenevis_hidden-mixed_hover.png</file>
+        <file>icons/d_scenevis_hidden-mixed_hover@2x.png</file>
+        <file>icons/d_scenevis_scene_hover.png</file>
+        <file>icons/d_scenevis_scene_hover@2x.png</file>
+        <file>icons/d_scenevis_visible.png</file>
+        <file>icons/d_scenevis_visible@2x.png</file>
+        <file>icons/d_scenevis_visible_hover.png</file>
+        <file>icons/d_scenevis_visible_hover@2x.png</file>
+        <file>icons/d_scenevis_visible-mixed.png</file>
+        <file>icons/d_scenevis_visible-mixed@2x.png</file>
+        <file>icons/d_scenevis_visible-mixed_hover.png</file>
+        <file>icons/d_scenevis_visible-mixed_hover@2x.png</file>
+        <file>icons/d_ScrollShadow.png</file>
+        <file>icons/d_Settings.png</file>
+        <file>icons/d_Settings@2x.png</file>
+        <file>icons/d_SettingsIcon.png</file>
+        <file>icons/d_SettingsIcon@2x.png</file>
+        <file>icons/d_SocialNetworks.FacebookShare.png</file>
+        <file>icons/d_SocialNetworks.LinkedInShare.png</file>
+        <file>icons/d_SocialNetworks.Tweet.png</file>
+        <file>icons/d_SocialNetworks.UDNOpen.png</file>
+        <file>icons/d_SpeedScale.png</file>
+        <file>icons/d_StepButton On.png</file>
+        <file>icons/d_StepButton On@2x.png</file>
+        <file>icons/d_StepButton.png</file>
+        <file>icons/d_StepButton@2x.png</file>
+        <file>icons/d_StepLeftButton.png</file>
+        <file>icons/d_StepLeftButton-On.png</file>
+        <file>icons/d_tab_next.png</file>
+        <file>icons/d_tab_next@2x.png</file>
+        <file>icons/d_tab_prev.png</file>
+        <file>icons/d_tab_prev@2x.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolLower On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolLowerAlt.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolPlants On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolPlants.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolPlantsAlt On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolPlantsAlt.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolRaise On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolRaise.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSetheight On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSetheight.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSetheightAlt On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSetheightAlt.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSettings On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSettings.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSmoothHeight On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSmoothHeight.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSplat On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSplat.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSplatAlt On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolSplatAlt.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolTrees On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolTrees.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolTreesAlt On.png</file>
+        <file>icons/d_TerrainInspector.TerrainToolTreesAlt.png</file>
+        <file>icons/d_ToggleUVOverlay.png</file>
+        <file>icons/d_ToggleUVOverlay@2x.png</file>
+        <file>icons/d_Toolbar Minus.png</file>
+        <file>icons/d_Toolbar Minus@2x.png</file>
+        <file>icons/d_Toolbar Plus More.png</file>
+        <file>icons/d_Toolbar Plus More@2x.png</file>
+        <file>icons/d_Toolbar Plus.png</file>
+        <file>icons/d_Toolbar Plus@2x.png</file>
+        <file>icons/d_ToolHandleCenter.png</file>
+        <file>icons/d_ToolHandleCenter@2x.png</file>
+        <file>icons/d_ToolHandleGlobal.png</file>
+        <file>icons/d_ToolHandleGlobal@2x.png</file>
+        <file>icons/d_ToolHandleLocal.png</file>
+        <file>icons/d_ToolHandleLocal@2x.png</file>
+        <file>icons/d_ToolHandlePivot.png</file>
+        <file>icons/d_ToolHandlePivot@2x.png</file>
+        <file>icons/d_ToolsIcon.png</file>
+        <file>icons/d_tranp.png</file>
+        <file>icons/d_TransformTool On.png</file>
+        <file>icons/d_TransformTool On@2x.png</file>
+        <file>icons/d_TransformTool.png</file>
+        <file>icons/d_TransformTool@2x.png</file>
+        <file>icons/d_tree_icon.png</file>
+        <file>icons/d_tree_icon_branch.png</file>
+        <file>icons/d_tree_icon_branch_frond.png</file>
+        <file>icons/d_tree_icon_frond.png</file>
+        <file>icons/d_tree_icon_leaf.png</file>
+        <file>icons/d_TreeEditor.AddBranches.png</file>
+        <file>icons/d_TreeEditor.AddLeaves.png</file>
+        <file>icons/d_TreeEditor.Branch On.png</file>
+        <file>icons/d_TreeEditor.Branch.png</file>
+        <file>icons/d_TreeEditor.BranchFreeHand On.png</file>
+        <file>icons/d_TreeEditor.BranchFreeHand.png</file>
+        <file>icons/d_TreeEditor.BranchRotate On.png</file>
+        <file>icons/d_TreeEditor.BranchRotate.png</file>
+        <file>icons/d_TreeEditor.BranchScale On.png</file>
+        <file>icons/d_TreeEditor.BranchScale.png</file>
+        <file>icons/d_TreeEditor.BranchTranslate On.png</file>
+        <file>icons/d_TreeEditor.BranchTranslate.png</file>
+        <file>icons/d_TreeEditor.Distribution On.png</file>
+        <file>icons/d_TreeEditor.Distribution.png</file>
+        <file>icons/d_TreeEditor.Duplicate.png</file>
+        <file>icons/d_TreeEditor.Geometry On.png</file>
+        <file>icons/d_TreeEditor.Geometry.png</file>
+        <file>icons/d_TreeEditor.Leaf On.png</file>
+        <file>icons/d_TreeEditor.Leaf.png</file>
+        <file>icons/d_TreeEditor.LeafFreeHand On.png</file>
+        <file>icons/d_TreeEditor.LeafFreeHand.png</file>
+        <file>icons/d_TreeEditor.LeafRotate On.png</file>
+        <file>icons/d_TreeEditor.LeafRotate.png</file>
+        <file>icons/d_TreeEditor.LeafScale On.png</file>
+        <file>icons/d_TreeEditor.LeafScale.png</file>
+        <file>icons/d_TreeEditor.LeafTranslate On.png</file>
+        <file>icons/d_TreeEditor.LeafTranslate.png</file>
+        <file>icons/d_TreeEditor.Material On.png</file>
+        <file>icons/d_TreeEditor.Material.png</file>
+        <file>icons/d_TreeEditor.Refresh.png</file>
+        <file>icons/d_TreeEditor.Trash.png</file>
+        <file>icons/d_TreeEditor.Wind On.png</file>
+        <file>icons/d_TreeEditor.Wind.png</file>
+        <file>icons/d_UnityEditor.AnimationWindow.png</file>
+        <file>icons/d_UnityEditor.AnimationWindow@2x.png</file>
+        <file>icons/d_UnityEditor.ConsoleWindow.png</file>
+        <file>icons/d_UnityEditor.ConsoleWindow@2x.png</file>
+        <file>icons/d_UnityEditor.DebugInspectorWindow.png</file>
+        <file>icons/d_UnityEditor.FindDependencies.png</file>
+        <file>icons/d_UnityEditor.GameView.png</file>
+        <file>icons/d_UnityEditor.GameView@2x.png</file>
+        <file>icons/d_UnityEditor.Graphs.AnimatorControllerTool.png</file>
+        <file>icons/d_UnityEditor.Graphs.AnimatorControllerTool@2x.png</file>
+        <file>icons/d_UnityEditor.HierarchyWindow.png</file>
+        <file>icons/d_UnityEditor.InspectorWindow.png</file>
+        <file>icons/d_UnityEditor.InspectorWindow@2x.png</file>
+        <file>icons/d_UnityEditor.ProfilerWindow.png</file>
+        <file>icons/d_UnityEditor.ProfilerWindow@2x.png</file>
+        <file>icons/d_UnityEditor.SceneHierarchyWindow.png</file>
+        <file>icons/d_UnityEditor.SceneHierarchyWindow@2x.png</file>
+        <file>icons/d_UnityEditor.SceneView.png</file>
+        <file>icons/d_UnityEditor.SceneView@2x.png</file>
+        <file>icons/d_UnityEditor.Timeline.TimelineWindow.png</file>
+        <file>icons/d_UnityEditor.Timeline.TimelineWindow@2x.png</file>
+        <file>icons/d_UnityEditor.VersionControl.png</file>
+        <file>icons/d_UnityLogo.png</file>
+        <file>icons/d_Unlinked.png</file>
+        <file>icons/d_Unlinked@2x.png</file>
+        <file>icons/d_Valid.png</file>
+        <file>icons/d_Valid@2x.png</file>
+        <file>icons/d_VerticalSplit.png</file>
+        <file>icons/d_ViewToolMove On.png</file>
+        <file>icons/d_ViewToolMove On@2x.png</file>
+        <file>icons/d_ViewToolMove.png</file>
+        <file>icons/d_ViewToolMove@2x.png</file>
+        <file>icons/d_ViewToolOrbit On.png</file>
+        <file>icons/d_ViewToolOrbit On@2x.png</file>
+        <file>icons/d_ViewToolOrbit.png</file>
+        <file>icons/d_ViewToolOrbit@2x.png</file>
+        <file>icons/d_ViewToolZoom On.png</file>
+        <file>icons/d_ViewToolZoom On@2x.png</file>
+        <file>icons/d_ViewToolZoom.png</file>
+        <file>icons/d_ViewToolZoom@2x.png</file>
+        <file>icons/d_VisibilityOff.png</file>
+        <file>icons/d_VisibilityOn.png</file>
+        <file>icons/d_VUMeterTextureHorizontal.png</file>
+        <file>icons/d_VUMeterTextureVertical.png</file>
+        <file>icons/d_WaitSpin00.png</file>
+        <file>icons/d_WaitSpin01.png</file>
+        <file>icons/d_WaitSpin02.png</file>
+        <file>icons/d_WaitSpin03.png</file>
+        <file>icons/d_WaitSpin04.png</file>
+        <file>icons/d_WaitSpin05.png</file>
+        <file>icons/d_WaitSpin06.png</file>
+        <file>icons/d_WaitSpin07.png</file>
+        <file>icons/d_WaitSpin08.png</file>
+        <file>icons/d_WaitSpin09.png</file>
+        <file>icons/d_WaitSpin10.png</file>
+        <file>icons/d_WaitSpin11.png</file>
+        <file>icons/d_WelcomeScreen.AssetStoreLogo.png</file>
+        <file>icons/d_winbtn_graph.png</file>
+        <file>icons/d_winbtn_graph_close_h.png</file>
+        <file>icons/d_winbtn_graph_max_h.png</file>
+        <file>icons/d_winbtn_graph_min_h.png</file>
+        <file>icons/d_winbtn_mac_close.png</file>
+        <file>icons/d_winbtn_mac_close@2x.png</file>
+        <file>icons/d_winbtn_mac_close_a.png</file>
+        <file>icons/d_winbtn_mac_close_a@2x.png</file>
+        <file>icons/d_winbtn_mac_close_h.png</file>
+        <file>icons/d_winbtn_mac_close_h@2x.png</file>
+        <file>icons/d_winbtn_mac_inact.png</file>
+        <file>icons/d_winbtn_mac_max.png</file>
+        <file>icons/d_winbtn_mac_max@2x.png</file>
+        <file>icons/d_winbtn_mac_max_a.png</file>
+        <file>icons/d_winbtn_mac_max_a@2x.png</file>
+        <file>icons/d_winbtn_mac_max_h.png</file>
+        <file>icons/d_winbtn_mac_max_h@2x.png</file>
+        <file>icons/d_winbtn_mac_min.png</file>
+        <file>icons/d_winbtn_mac_min@2x.png</file>
+        <file>icons/d_winbtn_mac_min_a.png</file>
+        <file>icons/d_winbtn_mac_min_a@2x.png</file>
+        <file>icons/d_winbtn_mac_min_h.png</file>
+        <file>icons/d_winbtn_mac_min_h@2x.png</file>
+        <file>icons/d_winbtn_win_close.png</file>
+        <file>icons/d_winbtn_win_close@2x.png</file>
+        <file>icons/d_winbtn_win_close_a.png</file>
+        <file>icons/d_winbtn_win_close_a@2x.png</file>
+        <file>icons/d_winbtn_win_close_h.png</file>
+        <file>icons/d_winbtn_win_close_h@2x.png</file>
+        <file>icons/d_winbtn_win_max.png</file>
+        <file>icons/d_winbtn_win_max@2x.png</file>
+        <file>icons/d_winbtn_win_max_a.png</file>
+        <file>icons/d_winbtn_win_max_a@2x.png</file>
+        <file>icons/d_winbtn_win_max_h.png</file>
+        <file>icons/d_winbtn_win_max_h@2x.png</file>
+        <file>icons/d_winbtn_win_min.png</file>
+        <file>icons/d_winbtn_win_min_a.png</file>
+        <file>icons/d_winbtn_win_min_h.png</file>
+        <file>icons/d_winbtn_win_rest.png</file>
+        <file>icons/d_winbtn_win_rest_a.png</file>
+        <file>icons/d_winbtn_win_rest_h.png</file>
+        <file>icons/d_winbtn_win_restore.png</file>
+        <file>icons/d_winbtn_win_restore@2x.png</file>
+        <file>icons/d_winbtn_win_restore_a.png</file>
+        <file>icons/d_winbtn_win_restore_a@2x.png</file>
+        <file>icons/d_winbtn_win_restore_h.png</file>
+        <file>icons/d_winbtn_win_restore_h@2x.png</file>
+        <file>icons/DebuggerAttached.png</file>
+        <file>icons/DebuggerAttached@2x.png</file>
+        <file>icons/DebuggerDisabled.png</file>
+        <file>icons/DebuggerDisabled@2x.png</file>
+        <file>icons/DebuggerEnabled.png</file>
+        <file>icons/DebuggerEnabled@2x.png</file>
+        <file>icons/DefaultSorting.png</file>
+        <file>icons/DefaultSorting@2x.png</file>
+        <file>icons/EditCollider.png</file>
+        <file>icons/editcollision_16.png</file>
+        <file>icons/editcollision_16@2x.png</file>
+        <file>icons/editcollision_32.png</file>
+        <file>icons/editconstraints_16.png</file>
+        <file>icons/editconstraints_16@2x.png</file>
+        <file>icons/editconstraints_32.png</file>
+        <file>icons/editicon.sml.png</file>
+        <file>icons/endButton.png</file>
+        <file>icons/endButton-On.png</file>
+        <file>icons/Exposure.png</file>
+        <file>icons/Exposure@2x.png</file>
+        <file>icons/eyeDropper.Large.png</file>
+        <file>icons/eyeDropper.Large@2x.png</file>
+        <file>icons/eyeDropper.sml.png</file>
+        <file>icons/Favorite.png</file>
+        <file>icons/Favorite@2x.png</file>
+        <file>icons/FilterByLabel.png</file>
+        <file>icons/FilterByLabel@2x.png</file>
+        <file>icons/FilterByType.png</file>
+        <file>icons/FilterByType@2x.png</file>
+        <file>icons/FilterSelectedOnly.png</file>
+        <file>icons/FilterSelectedOnly@2x.png</file>
+        <file>icons/forward.png</file>
+        <file>icons/forward@2x.png</file>
+        <file>icons/FrameCapture.png</file>
+        <file>icons/FrameCapture@2x.png</file>
+        <file>icons/GEAR.png</file>
+        <file>icons/Grid.BoxTool.png</file>
+        <file>icons/Grid.BoxTool@2x.png</file>
+        <file>icons/Grid.Default.png</file>
+        <file>icons/Grid.Default@2x.png</file>
+        <file>icons/Grid.EraserTool.png</file>
+        <file>icons/Grid.EraserTool@2x.png</file>
+        <file>icons/Grid.FillTool.png</file>
+        <file>icons/Grid.FillTool@2x.png</file>
+        <file>icons/Grid.MoveTool.png</file>
+        <file>icons/Grid.MoveTool@2x.png</file>
+        <file>icons/Grid.PaintTool.png</file>
+        <file>icons/Grid.PaintTool@2x.png</file>
+        <file>icons/Grid.PickingTool.png</file>
+        <file>icons/Grid.PickingTool@2x.png</file>
+        <file>icons/Groove.png</file>
+        <file>icons/HorizontalSplit.png</file>
+        <file>icons/icon dropdown.png</file>
+        <file>icons/icon dropdown@2x.png</file>
+        <file>icons/Import.png</file>
+        <file>icons/Import@2x.png</file>
+        <file>icons/InspectorLock.png</file>
+        <file>icons/Invalid.png</file>
+        <file>icons/Invalid@2x.png</file>
+        <file>icons/JointAngularLimits.png</file>
+        <file>icons/KnobCShape.png</file>
+        <file>icons/KnobCShapeMini.png</file>
+        <file>icons/leftBracket.png</file>
+        <file>icons/Lighting.png</file>
+        <file>icons/Lighting@2x.png</file>
+        <file>icons/LightmapEditor.WindowTitle.png</file>
+        <file>icons/LightmapEditor.WindowTitle@2x.png</file>
+        <file>icons/Lightmapping.png</file>
+        <file>icons/Linked.png</file>
+        <file>icons/Linked@2x.png</file>
+        <file>icons/LockIcon.png</file>
+        <file>icons/LockIcon-On.png</file>
+        <file>icons/loop.png</file>
+        <file>icons/MainStageView.png</file>
+        <file>icons/MainStageView@2x.png</file>
+        <file>icons/Mirror.png</file>
+        <file>icons/monologo.png</file>
+        <file>icons/MoreOptions.png</file>
+        <file>icons/MoreOptions@2x.png</file>
+        <file>icons/MoveTool on.png</file>
+        <file>icons/MoveTool On@2x.png</file>
+        <file>icons/MoveTool.png</file>
+        <file>icons/MoveTool@2x.png</file>
+        <file>icons/Navigation.png</file>
+        <file>icons/Occlusion.png</file>
+        <file>icons/Occlusion@2x.png</file>
+        <file>icons/Package Manager.png</file>
+        <file>icons/Package Manager@2x.png</file>
+        <file>icons/PackageBadgeDelete.png</file>
+        <file>icons/PackageBadgeNew.png</file>
+        <file>icons/Particle Effect.png</file>
+        <file>icons/ParticleShapeTool On.png</file>
+        <file>icons/ParticleShapeTool On@2x.png</file>
+        <file>icons/ParticleShapeTool On@3x.png</file>
+        <file>icons/ParticleShapeTool On@4x.png</file>
+        <file>icons/ParticleShapeTool.png</file>
+        <file>icons/ParticleShapeTool@2x.png</file>
+        <file>icons/ParticleShapeTool@3x.png</file>
+        <file>icons/ParticleShapeTool@4x.png</file>
+        <file>icons/PauseButton On.png</file>
+        <file>icons/PauseButton On@2x.png</file>
+        <file>icons/PauseButton.png</file>
+        <file>icons/PauseButton@2x.png</file>
+        <file>icons/PlayButton On.png</file>
+        <file>icons/PlayButton On@2x.png</file>
+        <file>icons/PlayButton.png</file>
+        <file>icons/PlayButton@2x.png</file>
+        <file>icons/PlayButtonProfile On.png</file>
+        <file>icons/PlayButtonProfile.png</file>
+        <file>icons/playLoopOff.png</file>
+        <file>icons/playLoopOn.png</file>
+        <file>icons/playSpeed.png</file>
+        <file>icons/preAudioAutoPlayOff.png</file>
+        <file>icons/preAudioAutoPlayOff@2x.png</file>
+        <file>icons/preAudioAutoPlayOn.png</file>
+        <file>icons/preAudioLoopOff.png</file>
+        <file>icons/preAudioLoopOff@2x.png</file>
+        <file>icons/preAudioLoopOn.png</file>
+        <file>icons/preAudioPlayOff.png</file>
+        <file>icons/preAudioPlayOn.png</file>
+        <file>icons/PreMatCube.png</file>
+        <file>icons/PreMatCube@2x.png</file>
+        <file>icons/PreMatCylinder.png</file>
+        <file>icons/PreMatCylinder@2x.png</file>
+        <file>icons/PreMatLight0.png</file>
+        <file>icons/PreMatLight0@2x.png</file>
+        <file>icons/PreMatLight1.png</file>
+        <file>icons/PreMatLight1@2x.png</file>
+        <file>icons/PreMatQuad.png</file>
+        <file>icons/PreMatQuad@2x.png</file>
+        <file>icons/PreMatSphere.png</file>
+        <file>icons/PreMatSphere@2x.png</file>
+        <file>icons/PreMatTorus.png</file>
+        <file>icons/PreMatTorus@2x.png</file>
+        <file>icons/Preset.Context.png</file>
+        <file>icons/Preset.Context@2x.png</file>
+        <file>icons/PreTexA.png</file>
+        <file>icons/PreTexA@2x.png</file>
+        <file>icons/PreTexB.png</file>
+        <file>icons/PreTexB@2x.png</file>
+        <file>icons/PreTexG.png</file>
+        <file>icons/PreTexG@2x.png</file>
+        <file>icons/PreTexR.png</file>
+        <file>icons/PreTexR@2x.png</file>
+        <file>icons/PreTexRGB.png</file>
+        <file>icons/PreTexRGB@2x.png</file>
+        <file>icons/PreTextureAlpha.png</file>
+        <file>icons/PreTextureArrayFirstSlice.png</file>
+        <file>icons/PreTextureArrayLastSlice.png</file>
+        <file>icons/PreTextureMipMapHigh.png</file>
+        <file>icons/PreTextureMipMapLow.png</file>
+        <file>icons/PreTextureRGB.png</file>
+        <file>icons/PreviewPackageInUse.png</file>
+        <file>icons/PreviewPackageInUse@2x.png</file>
+        <file>icons/Profiler.Audio.png</file>
+        <file>icons/Profiler.Audio@2x.png</file>
+        <file>icons/Profiler.CPU.png</file>
+        <file>icons/Profiler.CPU@2x.png</file>
+        <file>icons/Profiler.FirstFrame.png</file>
+        <file>icons/Profiler.GlobalIllumination.png</file>
+        <file>icons/Profiler.GlobalIllumination@2x.png</file>
+        <file>icons/Profiler.GPU.png</file>
+        <file>icons/Profiler.GPU@2x.png</file>
+        <file>icons/Profiler.Instrumentation.png</file>
+        <file>icons/Profiler.LastFrame.png</file>
+        <file>icons/Profiler.Memory.png</file>
+        <file>icons/Profiler.Memory@2x.png</file>
+        <file>icons/Profiler.NetworkMessages.png</file>
+        <file>icons/Profiler.NetworkMessages@2x.png</file>
+        <file>icons/Profiler.NetworkOperations.png</file>
+        <file>icons/Profiler.NetworkOperations@2x.png</file>
+        <file>icons/Profiler.NextFrame.png</file>
+        <file>icons/Profiler.Physics.png</file>
+        <file>icons/Profiler.Physics@2x.png</file>
+        <file>icons/Profiler.Physics2D.png</file>
+        <file>icons/Profiler.Physics2D@2x.png</file>
+        <file>icons/Profiler.PrevFrame.png</file>
+        <file>icons/Profiler.Record.png</file>
+        <file>icons/Profiler.Rendering.png</file>
+        <file>icons/Profiler.Rendering@2x.png</file>
+        <file>icons/Profiler.UI.png</file>
+        <file>icons/Profiler.UI@2x.png</file>
+        <file>icons/Profiler.UIDetails.png</file>
+        <file>icons/Profiler.UIDetails@2x.png</file>
+        <file>icons/Profiler.Video.png</file>
+        <file>icons/Profiler.Video@2x.png</file>
+        <file>icons/ProfilerColumn.WarningCount.png</file>
+        <file>icons/Progress.png</file>
+        <file>icons/Progress@2x.png</file>
+        <file>icons/Project.png</file>
+        <file>icons/Project@2x.png</file>
+        <file>icons/Record Off.png</file>
+        <file>icons/Record Off@2x.png</file>
+        <file>icons/Record On.png</file>
+        <file>icons/Record On@2x.png</file>
+        <file>icons/RectTool On.png</file>
+        <file>icons/RectTool On@2x.png</file>
+        <file>icons/RectTool.png</file>
+        <file>icons/RectTool@2x.png</file>
+        <file>icons/RectTransformBlueprint.png</file>
+        <file>icons/RectTransformRaw.png</file>
+        <file>icons/redGroove.png</file>
+        <file>icons/ReflectionProbeSelector.png</file>
+        <file>icons/ReflectionProbeSelector@2x.png</file>
+        <file>icons/Refresh.png</file>
+        <file>icons/Refresh@2x.png</file>
+        <file>icons/rightBracket.png</file>
+        <file>icons/RotateTool On.png</file>
+        <file>icons/RotateTool On@2x.png</file>
+        <file>icons/RotateTool.png</file>
+        <file>icons/RotateTool@2x.png</file>
+        <file>icons/RotateTool@4x.png</file>
+        <file>icons/SaveActive.png</file>
+        <file>icons/SaveAs.png</file>
+        <file>icons/SaveAs@2x.png</file>
+        <file>icons/SaveFromPlay.png</file>
+        <file>icons/SavePassive.png</file>
+        <file>icons/ScaleTool On.png</file>
+        <file>icons/ScaleTool On@2x.png</file>
+        <file>icons/ScaleTool.png</file>
+        <file>icons/ScaleTool@2x.png</file>
+        <file>icons/SceneLoadIn.png</file>
+        <file>icons/SceneLoadOut.png</file>
+        <file>icons/scenepicking_notpickable.png</file>
+        <file>icons/scenepicking_notpickable@2x.png</file>
+        <file>icons/scenepicking_notpickable_hover.png</file>
+        <file>icons/scenepicking_notpickable_hover@2x.png</file>
+        <file>icons/scenepicking_notpickable-mixed.png</file>
+        <file>icons/scenepicking_notpickable-mixed@2x.png</file>
+        <file>icons/scenepicking_notpickable-mixed_hover.png</file>
+        <file>icons/scenepicking_notpickable-mixed_hover@2x.png</file>
+        <file>icons/scenepicking_pickable.png</file>
+        <file>icons/scenepicking_pickable@2x.png</file>
+        <file>icons/scenepicking_pickable_hover.png</file>
+        <file>icons/scenepicking_pickable_hover@2x.png</file>
+        <file>icons/scenepicking_pickable-mixed.png</file>
+        <file>icons/scenepicking_pickable-mixed@2x.png</file>
+        <file>icons/scenepicking_pickable-mixed_hover.png</file>
+        <file>icons/scenepicking_pickable-mixed_hover@2x.png</file>
+        <file>icons/SceneSave.png</file>
+        <file>icons/SceneSaveGrey.png</file>
+        <file>icons/SceneView2D.png</file>
+        <file>icons/SceneView2D@2x.png</file>
+        <file>icons/SceneViewAlpha.png</file>
+        <file>icons/SceneViewAudio Off.png</file>
+        <file>icons/SceneViewAudio Off@2x.png</file>
+        <file>icons/SceneViewAudio.png</file>
+        <file>icons/SceneViewAudio@2x.png</file>
+        <file>icons/SceneViewCamera.png</file>
+        <file>icons/SceneViewCamera@2x.png</file>
+        <file>icons/SceneViewFx.png</file>
+        <file>icons/SceneViewFX@2x.png</file>
+        <file>icons/SceneViewLighting Off.png</file>
+        <file>icons/SceneViewLighting Off@2x.png</file>
+        <file>icons/SceneViewLighting.png</file>
+        <file>icons/SceneViewLighting@2x.png</file>
+        <file>icons/SceneViewOrtho.png</file>
+        <file>icons/SceneViewRGB.png</file>
+        <file>icons/SceneViewTools.png</file>
+        <file>icons/SceneViewTools@2x.png</file>
+        <file>icons/SceneViewVisibility.png</file>
+        <file>icons/SceneViewVisibility@2x.png</file>
+        <file>icons/scenevis_hidden.png</file>
+        <file>icons/scenevis_hidden@2x.png</file>
+        <file>icons/scenevis_hidden_hover.png</file>
+        <file>icons/scenevis_hidden_hover@2x.png</file>
+        <file>icons/scenevis_hidden-mixed.png</file>
+        <file>icons/scenevis_hidden-mixed@2x.png</file>
+        <file>icons/scenevis_hidden-mixed_hover.png</file>
+        <file>icons/scenevis_hidden-mixed_hover@2x.png</file>
+        <file>icons/scenevis_scene_hover.png</file>
+        <file>icons/scenevis_scene_hover@2x.png</file>
+        <file>icons/scenevis_visible.png</file>
+        <file>icons/scenevis_visible@2x.png</file>
+        <file>icons/scenevis_visible_hover.png</file>
+        <file>icons/scenevis_visible_hover@2x.png</file>
+        <file>icons/scenevis_visible-mixed.png</file>
+        <file>icons/scenevis_visible-mixed@2x.png</file>
+        <file>icons/scenevis_visible-mixed_hover.png</file>
+        <file>icons/scenevis_visible-mixed_hover@2x.png</file>
+        <file>icons/ScrollShadow.png</file>
+        <file>icons/Settings.png</file>
+        <file>icons/Settings@2x.png</file>
+        <file>icons/SettingsIcon.png</file>
+        <file>icons/SettingsIcon@2x.png</file>
+        <file>icons/SocialNetworks.FacebookShare.png</file>
+        <file>icons/SocialNetworks.LinkedInShare.png</file>
+        <file>icons/SocialNetworks.Tweet.png</file>
+        <file>icons/SocialNetworks.UDNLogo.png</file>
+        <file>icons/SocialNetworks.UDNOpen.png</file>
+        <file>icons/SoftlockInline.png</file>
+        <file>icons/SpeedScale.png</file>
+        <file>icons/StateMachineEditor.ArrowTip.png</file>
+        <file>icons/StateMachineEditor.ArrowTipSelected.png</file>
+        <file>icons/StateMachineEditor.Background.png</file>
+        <file>icons/StateMachineEditor.State.png</file>
+        <file>icons/StateMachineEditor.StateHover.png</file>
+        <file>icons/StateMachineEditor.StateSelected.png</file>
+        <file>icons/StateMachineEditor.StateSub.png</file>
+        <file>icons/StateMachineEditor.StateSubHover.png</file>
+        <file>icons/StateMachineEditor.StateSubSelected.png</file>
+        <file>icons/StateMachineEditor.UpButton.png</file>
+        <file>icons/StateMachineEditor.UpButtonHover.png</file>
+        <file>icons/StepButton On.png</file>
+        <file>icons/StepButton On@2x.png</file>
+        <file>icons/StepButton.png</file>
+        <file>icons/StepButton@2x.png</file>
+        <file>icons/StepLeftButton.png</file>
+        <file>icons/StepLeftButton-On.png</file>
+        <file>icons/sv_icon_dot0_sml.png</file>
+        <file>icons/sv_icon_dot1_sml.png</file>
+        <file>icons/sv_icon_dot2_sml.png</file>
+        <file>icons/sv_icon_dot3_sml.png</file>
+        <file>icons/sv_icon_dot4_sml.png</file>
+        <file>icons/sv_icon_dot5_sml.png</file>
+        <file>icons/sv_icon_dot6_sml.png</file>
+        <file>icons/sv_icon_dot7_sml.png</file>
+        <file>icons/sv_icon_dot8_sml.png</file>
+        <file>icons/sv_icon_dot9_sml.png</file>
+        <file>icons/sv_icon_dot10_sml.png</file>
+        <file>icons/sv_icon_dot11_sml.png</file>
+        <file>icons/sv_icon_dot12_sml.png</file>
+        <file>icons/sv_icon_dot13_sml.png</file>
+        <file>icons/sv_icon_dot14_sml.png</file>
+        <file>icons/sv_icon_dot15_sml.png</file>
+        <file>icons/sv_icon_name0.png</file>
+        <file>icons/sv_icon_name1.png</file>
+        <file>icons/sv_icon_name2.png</file>
+        <file>icons/sv_icon_name3.png</file>
+        <file>icons/sv_icon_name4.png</file>
+        <file>icons/sv_icon_name5.png</file>
+        <file>icons/sv_icon_name6.png</file>
+        <file>icons/sv_icon_name7.png</file>
+        <file>icons/sv_icon_none.png</file>
+        <file>icons/sv_label_0.png</file>
+        <file>icons/sv_label_1.png</file>
+        <file>icons/sv_label_2.png</file>
+        <file>icons/sv_label_3.png</file>
+        <file>icons/sv_label_4.png</file>
+        <file>icons/sv_label_5.png</file>
+        <file>icons/sv_label_6.png</file>
+        <file>icons/sv_label_7.png</file>
+        <file>icons/tab_next.png</file>
+        <file>icons/tab_next@2x.png</file>
+        <file>icons/tab_prev.png</file>
+        <file>icons/tab_prev@2x.png</file>
+        <file>icons/TerrainInspector.TerrainToolAdd.png</file>
+        <file>icons/TerrainInspector.TerrainToolLower On.png</file>
+        <file>icons/TerrainInspector.TerrainToolLower.png</file>
+        <file>icons/TerrainInspector.TerrainToolLowerAlt.png</file>
+        <file>icons/TerrainInspector.TerrainToolPlants On.png</file>
+        <file>icons/TerrainInspector.TerrainToolPlants.png</file>
+        <file>icons/TerrainInspector.TerrainToolPlantsAlt On.png</file>
+        <file>icons/TerrainInspector.TerrainToolPlantsAlt.png</file>
+        <file>icons/TerrainInspector.TerrainToolRaise On.png</file>
+        <file>icons/TerrainInspector.TerrainToolRaise.png</file>
+        <file>icons/TerrainInspector.TerrainToolSculpt On.png</file>
+        <file>icons/TerrainInspector.TerrainToolSculpt.png</file>
+        <file>icons/TerrainInspector.TerrainToolSetheight On.png</file>
+        <file>icons/TerrainInspector.TerrainToolSetheight.png</file>
+        <file>icons/TerrainInspector.TerrainToolSetheightAlt On.png</file>
+        <file>icons/TerrainInspector.TerrainToolSetheightAlt.png</file>
+        <file>icons/TerrainInspector.TerrainToolSettings On.png</file>
+        <file>icons/TerrainInspector.TerrainToolSettings.png</file>
+        <file>icons/TerrainInspector.TerrainToolSmoothHeight On.png</file>
+        <file>icons/TerrainInspector.TerrainToolSmoothHeight.png</file>
+        <file>icons/TerrainInspector.TerrainToolSplat On.png</file>
+        <file>icons/TerrainInspector.TerrainToolSplat.png</file>
+        <file>icons/TerrainInspector.TerrainToolSplatAlt On.png</file>
+        <file>icons/TerrainInspector.TerrainToolSplatAlt.png</file>
+        <file>icons/TerrainInspector.TerrainToolTrees On.png</file>
+        <file>icons/TerrainInspector.TerrainToolTrees.png</file>
+        <file>icons/TerrainInspector.TerrainToolTreesAlt On.png</file>
+        <file>icons/TerrainInspector.TerrainToolTreesAlt.png</file>
+        <file>icons/TestFailed.png</file>
+        <file>icons/TestIgnored.png</file>
+        <file>icons/TestInconclusive.png</file>
+        <file>icons/TestNormal.png</file>
+        <file>icons/TestPassed.png</file>
+        <file>icons/TestStopwatch.png</file>
+        <file>icons/ToggleUVOverlay.png</file>
+        <file>icons/ToggleUVOverlay@2x.png</file>
+        <file>icons/Toolbar Minus.png</file>
+        <file>icons/Toolbar Minus@2x.png</file>
+        <file>icons/Toolbar Plus More.png</file>
+        <file>icons/Toolbar Plus More@2x.png</file>
+        <file>icons/Toolbar Plus.png</file>
+        <file>icons/Toolbar Plus@2x.png</file>
+        <file>icons/ToolHandleCenter.png</file>
+        <file>icons/ToolHandleCenter@2x.png</file>
+        <file>icons/ToolHandleGlobal.png</file>
+        <file>icons/ToolHandleGlobal@2x.png</file>
+        <file>icons/ToolHandleLocal.png</file>
+        <file>icons/ToolHandleLocal@2x.png</file>
+        <file>icons/ToolHandlePivot.png</file>
+        <file>icons/ToolHandlePivot@2x.png</file>
+        <file>icons/ToolsIcon.png</file>
+        <file>icons/tranp.png</file>
+        <file>icons/TransformTool On.png</file>
+        <file>icons/TransformTool On@2x.png</file>
+        <file>icons/TransformTool.png</file>
+        <file>icons/TransformTool@2x.png</file>
+        <file>icons/tree_icon.png</file>
+        <file>icons/tree_icon_branch.png</file>
+        <file>icons/tree_icon_branch_frond.png</file>
+        <file>icons/tree_icon_frond.png</file>
+        <file>icons/tree_icon_leaf.png</file>
+        <file>icons/TreeEditor.AddBranches.png</file>
+        <file>icons/TreeEditor.AddLeaves.png</file>
+        <file>icons/TreeEditor.Branch On.png</file>
+        <file>icons/TreeEditor.Branch.png</file>
+        <file>icons/TreeEditor.BranchFreeHand On.png</file>
+        <file>icons/TreeEditor.BranchFreeHand.png</file>
+        <file>icons/TreeEditor.BranchRotate On.png</file>
+        <file>icons/TreeEditor.BranchRotate.png</file>
+        <file>icons/TreeEditor.BranchScale On.png</file>
+        <file>icons/TreeEditor.BranchScale.png</file>
+        <file>icons/TreeEditor.BranchTranslate On.png</file>
+        <file>icons/TreeEditor.BranchTranslate.png</file>
+        <file>icons/TreeEditor.Distribution On.png</file>
+        <file>icons/TreeEditor.Distribution.png</file>
+        <file>icons/TreeEditor.Duplicate.png</file>
+        <file>icons/TreeEditor.Geometry On.png</file>
+        <file>icons/TreeEditor.Geometry.png</file>
+        <file>icons/TreeEditor.Leaf On.png</file>
+        <file>icons/TreeEditor.Leaf.png</file>
+        <file>icons/TreeEditor.LeafFreeHand On.png</file>
+        <file>icons/TreeEditor.LeafFreeHand.png</file>
+        <file>icons/TreeEditor.LeafRotate On.png</file>
+        <file>icons/TreeEditor.LeafRotate.png</file>
+        <file>icons/TreeEditor.LeafScale On.png</file>
+        <file>icons/TreeEditor.LeafScale.png</file>
+        <file>icons/TreeEditor.LeafTranslate On.png</file>
+        <file>icons/TreeEditor.LeafTranslate.png</file>
+        <file>icons/TreeEditor.Material On.png</file>
+        <file>icons/TreeEditor.Material.png</file>
+        <file>icons/TreeEditor.Refresh.png</file>
+        <file>icons/TreeEditor.Trash.png</file>
+        <file>icons/TreeEditor.Wind On.png</file>
+        <file>icons/TreeEditor.Wind.png</file>
+        <file>icons/UnityEditor.AnimationWindow.png</file>
+        <file>icons/UnityEditor.AnimationWindow@2x.png</file>
+        <file>icons/UnityEditor.ConsoleWindow.png</file>
+        <file>icons/UnityEditor.ConsoleWindow@2x.png</file>
+        <file>icons/UnityEditor.DebugInspectorWindow.png</file>
+        <file>icons/UnityEditor.FindDependencies.png</file>
+        <file>icons/UnityEditor.GameView.png</file>
+        <file>icons/UnityEditor.GameView@2x.png</file>
+        <file>icons/UnityEditor.Graphs.AnimatorControllerTool.png</file>
+        <file>icons/UnityEditor.Graphs.AnimatorControllerTool@2x.png</file>
+        <file>icons/UnityEditor.HierarchyWindow.png</file>
+        <file>icons/UnityEditor.HierarchyWindow@2x.png</file>
+        <file>icons/UnityEditor.InspectorWindow.png</file>
+        <file>icons/UnityEditor.InspectorWindow@2x.png</file>
+        <file>icons/UnityEditor.ProfilerWindow.png</file>
+        <file>icons/UnityEditor.ProfilerWindow@2x.png</file>
+        <file>icons/UnityEditor.SceneHierarchyWindow.png</file>
+        <file>icons/UnityEditor.SceneHierarchyWindow@2x.png</file>
+        <file>icons/UnityEditor.SceneView.png</file>
+        <file>icons/UnityEditor.SceneView@2x.png</file>
+        <file>icons/UnityEditor.Timeline.TimelineWindow.png</file>
+        <file>icons/UnityEditor.Timeline.TimelineWindow@2x.png</file>
+        <file>icons/UnityEditor.VersionControl.png</file>
+        <file>icons/UnityLogo.png</file>
+        <file>icons/UnityLogoLarge.png</file>
+        <file>icons/UnLinked.png</file>
+        <file>icons/UnLinked@2x.png</file>
+        <file>icons/UpArrow.png</file>
+        <file>icons/Valid.png</file>
+        <file>icons/Valid@2x.png</file>
+        <file>icons/vcs_change.png</file>
+        <file>icons/vcs_document.png</file>
+        <file>icons/vcs_incoming.png</file>
+        <file>icons/VerticalSplit.png</file>
+        <file>icons/ViewToolMove On.png</file>
+        <file>icons/ViewToolMove On@2x.png</file>
+        <file>icons/ViewToolMove.png</file>
+        <file>icons/ViewToolMove@2x.png</file>
+        <file>icons/ViewToolOrbit On.png</file>
+        <file>icons/ViewToolOrbit On@2x.png</file>
+        <file>icons/ViewToolOrbit.png</file>
+        <file>icons/ViewToolOrbit@2x.png</file>
+        <file>icons/ViewToolZoom On.png</file>
+        <file>icons/ViewToolZoom On@2x.png</file>
+        <file>icons/ViewToolZoom.png</file>
+        <file>icons/ViewToolZoom@2x.png</file>
+        <file>icons/VisibilityOff.png</file>
+        <file>icons/VisibilityOn.png</file>
+        <file>icons/VUMeterTextureHorizontal.png</file>
+        <file>icons/VUMeterTextureVertical.png</file>
+        <file>icons/WaitSpin00.png</file>
+        <file>icons/WaitSpin01.png</file>
+        <file>icons/WaitSpin02.png</file>
+        <file>icons/WaitSpin03.png</file>
+        <file>icons/WaitSpin04.png</file>
+        <file>icons/WaitSpin05.png</file>
+        <file>icons/WaitSpin06.png</file>
+        <file>icons/WaitSpin07.png</file>
+        <file>icons/WaitSpin08.png</file>
+        <file>icons/WaitSpin09.png</file>
+        <file>icons/WaitSpin10.png</file>
+        <file>icons/WaitSpin11.png</file>
+        <file>icons/WelcomeScreen.AssetStoreLogo.png</file>
+        <file>icons/winbtn_graph.png</file>
+        <file>icons/winbtn_graph_close_h.png</file>
+        <file>icons/winbtn_graph_max_h.png</file>
+        <file>icons/winbtn_graph_min_h.png</file>
+        <file>icons/winbtn_mac_close.png</file>
+        <file>icons/winbtn_mac_close@2x.png</file>
+        <file>icons/winbtn_mac_close_a.png</file>
+        <file>icons/winbtn_mac_close_a@2x.png</file>
+        <file>icons/winbtn_mac_close_h.png</file>
+        <file>icons/winbtn_mac_close_h@2x.png</file>
+        <file>icons/winbtn_mac_inact.png</file>
+        <file>icons/winbtn_mac_inact@2x.png</file>
+        <file>icons/winbtn_mac_max.png</file>
+        <file>icons/winbtn_mac_max@2x.png</file>
+        <file>icons/winbtn_mac_max_a.png</file>
+        <file>icons/winbtn_mac_max_a@2x.png</file>
+        <file>icons/winbtn_mac_max_h.png</file>
+        <file>icons/winbtn_mac_max_h@2x.png</file>
+        <file>icons/winbtn_mac_min.png</file>
+        <file>icons/winbtn_mac_min@2x.png</file>
+        <file>icons/winbtn_mac_min_a.png</file>
+        <file>icons/winbtn_mac_min_a@2x.png</file>
+        <file>icons/winbtn_mac_min_h.png</file>
+        <file>icons/winbtn_mac_min_h@2x.png</file>
+        <file>icons/winbtn_win_close.png</file>
+        <file>icons/winbtn_win_close@2x.png</file>
+        <file>icons/winbtn_win_close_a.png</file>
+        <file>icons/winbtn_win_close_a@2x.png</file>
+        <file>icons/winbtn_win_close_h.png</file>
+        <file>icons/winbtn_win_close_h@2x.png</file>
+        <file>icons/winbtn_win_max.png</file>
+        <file>icons/winbtn_win_max@2x.png</file>
+        <file>icons/winbtn_win_max_a.png</file>
+        <file>icons/winbtn_win_max_a@2x.png</file>
+        <file>icons/winbtn_win_max_h.png</file>
+        <file>icons/winbtn_win_max_h@2x.png</file>
+        <file>icons/winbtn_win_min.png</file>
+        <file>icons/winbtn_win_min_a.png</file>
+        <file>icons/winbtn_win_min_h.png</file>
+        <file>icons/winbtn_win_rest.png</file>
+        <file>icons/winbtn_win_rest_a.png</file>
+        <file>icons/winbtn_win_rest_h.png</file>
+        <file>icons/winbtn_win_restore.png</file>
+        <file>icons/winbtn_win_restore@2x.png</file>
+        <file>icons/winbtn_win_restore_a.png</file>
+        <file>icons/winbtn_win_restore_a@2x.png</file>
+        <file>icons/winbtn_win_restore_h.png</file>
+        <file>icons/winbtn_win_restore_h@2x.png</file>
+    </qresource>
+</RCC>
