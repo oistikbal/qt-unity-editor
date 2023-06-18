@@ -12,12 +12,13 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
+
 set(PROJECT_SOURCES
         main.cpp
-        mainwindow.cpp
-        mainwindow.h
-        mainwindow.ui
+        EditorWindow.cpp
+        EditorWindow.h
         resource.qrc
+
 )
 
 
@@ -43,6 +44,9 @@ else()
         )
     endif()
 endif()
+
+include(3rdparty/qgoodwindow/QGoodWindow/QGoodWindow/QGoodWindow.cmake)
+include(3rdparty/qgoodwindow/QGoodWindow/QGoodCentralWidget/QGoodCentralWidget.cmake)
 
 target_link_libraries(Editor PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
 

@@ -1,0 +1,3 @@
+[submodule "3rdparty/qgoodwindow"]
+	path = 3rdparty/qgoodwindow
+	url = git@github.com:antonypro/QGoodWindow.git

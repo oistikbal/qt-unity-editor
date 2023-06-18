@@ -1,11 +1,15 @@
-#include "mainwindow.h"
-
 #include <QApplication>
+#include <QGoodWindow>
+#include <QGoodCentralWidget>
+#include "editorwindow.h"
 
 int main(int argc, char *argv[])
 {
-    QApplication a(argc, argv);
-    MainWindow w;
-    w.show();
-    return a.exec();
+    QGoodWindow::setup();
+
+    QApplication app(argc, argv);
+    EditorWindow editorWindow;
+    editorWindow.show();
+    QGoodWindow::setAppDarkTheme();
+    return app.exec();
 }
