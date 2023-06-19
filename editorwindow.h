@@ -3,12 +3,15 @@
 #include <QGoodWindow>
 #include <QGoodCentralWidget>
 
+#include "centralwidget.h"
+
 class EditorWindow : public QGoodWindow
 {
     Q_OBJECT
 public:
-    EditorWindow();
+    explicit EditorWindow(QWidget *parent = nullptr);
 private:
-    QGoodCentralWidget* m_gcw;
+    CentralWidget* m_central_widget;
+    QGoodCentralWidget* m_good_central_widget;
 };
 

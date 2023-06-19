@@ -17,6 +17,9 @@ set(PROJECT_SOURCES
         main.cpp
         EditorWindow.cpp
         EditorWindow.h
+        centralwidget.h
+        centralwidget.cpp
+        centralwidget.ui
         resource.qrc
 
 )
