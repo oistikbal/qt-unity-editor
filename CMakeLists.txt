@@ -20,6 +20,8 @@ set(PROJECT_SOURCES
         centralwidget.h
         centralwidget.cpp
         centralwidget.ui
+        hierarchy.h
+        hierarchy.cpp
         resource.qrc
 
 )
