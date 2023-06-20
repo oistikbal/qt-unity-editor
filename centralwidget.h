@@ -2,6 +2,7 @@
 
 #include <QMainWindow>
 #include <QPushButton>
+#include "hierarchy.h"
 
 class StatusButton : public QPushButton
 {
@@ -34,4 +35,5 @@ private:
     StatusButton* cacheButton;
     StatusButton* lightButton;
     StatusButton* progressButton;
+    Hierarchy* hierarchy;
 };

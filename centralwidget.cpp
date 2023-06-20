@@ -20,6 +20,10 @@ CentralWidget::CentralWidget(QWidget *parent) :
     ui->statusbar->addPermanentWidget(cacheButton);
     ui->statusbar->addPermanentWidget(lightButton);
     ui->statusbar->addPermanentWidget(progressButton);
+
+    //hierarchy
+    hierarchy = new Hierarchy(this);
+    addDockWidget(Qt::LeftDockWidgetArea, hierarchy->Dock());
 }
 
 CentralWidget::~CentralWidget()
